@@ -1,4 +1,4 @@
-module github.com/hekmon/transmissionrpc/v3
+module github.com/hreese/transmissionrpc/v3
 
 go 1.19
 
